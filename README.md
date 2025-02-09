@@ -16,3 +16,4 @@ moviespider/
 │   │   ├── movies_spider.py <-- Основной паук для парсинга фильмов
 │   ├── result.csv  <-- Пример отработки моего парсера
 ```
+Парсер можно запустить командой в терминале ```scrapy crawl movies -o result.csv```
