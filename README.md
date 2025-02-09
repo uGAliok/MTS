@@ -1,7 +1,7 @@
 # MTS
 
 Структура проекта:
-
+```
 moviespider/
 │   scrapy.cfg
 │
@@ -15,3 +15,4 @@ moviespider/
 │   │   ├── __init__.py
 │   │   ├── movies_spider.py <-- Основной паук для парсинга фильмов
 │   ├── result.csv  <-- Пример отработки моего парсера
+```
